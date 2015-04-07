@@ -16,4 +16,13 @@ hs_err_pid*
 .idea
 .gradle
 build
+
+# IntelliJ IDEA Files #
 *.iml
+*.ipr
+*.iws
+
+# Eclipse Project Files #
+.classpath
+.project
+.settings
