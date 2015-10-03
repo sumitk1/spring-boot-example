@@ -18,9 +18,9 @@ public class Example {
         return "Hello World!";
     }
 
-    @RequestMapping("/health1")
+    @RequestMapping("/health")
     String home1() {
-        return "Ffffffff!";
+        return "The health!";
     }
 
     public static void main(String[] args) throws Exception {
